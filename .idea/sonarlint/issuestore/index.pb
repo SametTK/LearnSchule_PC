@@ -1,0 +1,23 @@
+
+S
+#src/main/java/org/example/Main.java,0\b\0ba1b9c7a4878802f938e331cc2d8a042087ec6b
+7
+pom.xml,4\4\442292b8a7efeabbe4cc176709b833b1792140ec
+T
+$src/main/java/org/example/Firma.java,8\0\80b29b5729d2249c645f44190236d6f27668a510
+Z
+*src/main/java/org/example/Mitarbeiter.java,3\0\304196043d9340f578eaf8db80c7db9d8f258a5b
+[
++src/main/java/org/example/Angestellter.java,8\1\81a5c557efee2fcd27d1316db2a0356cc3c698ab
+c
+3src/main/java/org/example/Vertragsbediensteter.java,0\d\0da64b098c0ed79192824d3fe9c41ed474a182a5
+V
+&src/main/java/org/example/Beamter.java,5\e\5eb76192fc4706e4d62ae2e4fbc41c3d218bb950
+V
+&src/main/java/org/example/Manager.java,7\d\7d817109c0d1fa64eb7ea3ff8b1c166a8eb800d9
+Y
+)src/main/java/org/example/Freelancer.java,9\0\907df479337c4d410a60b4257fa7a1c1aa56415e
+R
+"src/test/java/TestMitarbeiter.java,2\2\22e6d59a6de7b3e0d3fc5c7638959d3db812f008
+9
+	README.md,8\e\8ec9a00bfd09b3190ac6b22251dbb1aa95a0579d
